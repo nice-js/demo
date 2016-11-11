@@ -106,6 +106,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
-build/
+dist/
 #auto generate view
 /server/views/index.html
